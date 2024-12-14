@@ -1,0 +1,7 @@
+cfg q5
+S,A,B
+a,b
+S
+S,aB|bA
+B,aBB|bS|b
+A,a

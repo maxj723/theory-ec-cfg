@@ -1,0 +1,9 @@
+cfg q3
+N, F, R, I, U
+e,.,-,0,1
+N
+N,U|I|R|F
+F,ReI
+R,I.U|I.
+I,U|-U
+U,0U|1U|0|1
